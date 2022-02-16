@@ -22,7 +22,6 @@
   "URLBlacklist": [
       "file://*",
       "chrome://policy",
-      "chrome://version",
       "chrome://settings"
   ],
   "ExtensionInstallWhitelist": [
