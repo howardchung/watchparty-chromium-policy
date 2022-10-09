@@ -22,7 +22,8 @@
   "URLBlacklist": [
       "file://*",
       "chrome://policy",
-      "chrome://settings"
+      "chrome://settings",
+      "*.widgetbot.io"
   ],
   "ExtensionInstallWhitelist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
