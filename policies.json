@@ -19,6 +19,7 @@
   "PromptForDownloadLocation": false,
   "BookmarkBarEnabled": false,
   "PasswordManagerEnabled": false,
+  "URLAllowlist": ["*"],
   "URLBlocklist": [
       "file://*",
       "chrome://policy",
