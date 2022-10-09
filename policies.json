@@ -24,7 +24,7 @@
       "file://*",
       "chrome://policy",
       "chrome://settings",
-      "*.widgetbot.io"
+      "widgetbot.io"
   ],
   "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
