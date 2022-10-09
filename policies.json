@@ -19,13 +19,13 @@
   "PromptForDownloadLocation": false,
   "BookmarkBarEnabled": false,
   "PasswordManagerEnabled": false,
-  "URLBlacklist": [
+  "URLBlocklist": [
       "file://*",
       "chrome://policy",
       "chrome://settings",
       "*.widgetbot.io"
   ],
-  "ExtensionInstallWhitelist": [
+  "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
       "gkojfkhlekighikafcpjkiklfbnlmeio",
       "hnmpcagpplmpfojmgmnngilcnanddlhb",
@@ -33,7 +33,7 @@
       "oofgbpoabipfcfjapgnbbjjaenockbdp",
       "mfaepkdaodjclepbclabjbigjeohfdje"
   ],
-  "ExtensionInstallBlacklist": [
+  "ExtensionInstallBlocklist": [
       "*"
   ],
   "ExtensionInstallForcelist": [
