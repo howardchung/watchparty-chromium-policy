@@ -25,7 +25,8 @@
       "chrome://policy",
       "chrome://settings",
       "widgetbot.io",
-      "photop.exotek.co"
+      "photop.exotek.co",
+      "exotek.co"
   ],
   "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
